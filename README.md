@@ -1,59 +1,35 @@
-## Hi, I’m Abubakar 👋
+# Hi, I'm Abubakar 👋
 
-Smart Contract Engineer focused on designing, testing, and stress-testing EVM smart contracts.
+Software engineer working across smart contracts, full-stack applications, and cloud infrastructure. I focus on testing depth, reliability, and clean engineering.
 
-I primarily work with **Solidity** and **Foundry**, building protocol-level systems with a strong emphasis on correctness, testing depth, and security assumptions. My interests include DeFi primitives, account abstraction, wallet infrastructure, and cross-chain messaging.
+## 🧠 What I Work On
 
----
+- **Smart contracts & protocol engineering** — wallets, DeFi primitives, cross-chain messaging
+- **Full-stack development** — TypeScript, React, Next.js, Node.js, REST APIs
+- **DevOps & cloud infrastructure** — Docker, Kubernetes, AWS, Terraform, CI/CD pipelines
+- **Testing & correctness** — unit, integration, fuzz, and invariant testing
 
-### 🧠 What I Work On
+## 🚀 Selected Projects
 
-- **Smart contract wallets** (ERC-4337, modular architectures, minimal proxies)
-- **DeFi protocols** (stablecoins, LP farming, liquidation & health-factor mechanics)
-- **Protocol testing** (unit, fuzz, and invariant testing with Foundry)
-- **Chainlink integrations** (VRF, Automation, CCIP)
-- **Security-minded development** and failure-mode analysis
+- **TREZO Wallet** — ERC-4337 smart contract wallet with a modular architecture, upgradeable instances (EIP-1167), and on-chain social recovery, integrated with a React Native mobile client.
+- **DevOps Article Management System** *(team project)* — Production-grade Node.js + PostgreSQL system with a 5-stage GitHub Actions CI/CD pipeline, Kubernetes on AWS EKS, Terraform IaC, and Prometheus + Grafana monitoring.
+- **Decentralized Stablecoin Protocol** — Overcollateralized stablecoin using Chainlink price feeds, with extensive unit, fuzz, and invariant testing to enforce solvency guarantees.
+- **Wire — On-Chain Fantasy Cricket dApp** — Solidity contracts, a Ponder indexer, and a Next.js frontend deployed end-to-end.
+- **Cross-Chain Rebase Token (CCIP)** — Interest-accruing ERC20 with a custom Chainlink CCIP TokenPool preserving per-user state across chains.
 
----
+## 🧪 Engineering Philosophy
 
-### 🚀 Selected Projects
+I build systems that hold up under stress — designing with explicit invariants, writing tests that attempt to break my own assumptions, and preferring simple, auditable designs over clever abstractions.
 
-- **TREZO Wallet**  
-  ERC-4337 smart contract wallet with a modular architecture, upgradeable instances (EIP-1167), and on-chain social recovery.
+## 🛠️ Tech Stack
 
-- **Decentralized Stablecoin Protocol**  
-  Overcollateralized stablecoin using Chainlink price feeds, with extensive unit, fuzz, and invariant testing to enforce solvency guarantees.
+- **Languages**: TypeScript, JavaScript, Python, Solidity, Java, C
+- **Frontend**: React, Next.js, React Native, Expo
+- **Backend**: Node.js, Express, REST APIs, PostgreSQL, MongoDB, Supabase
+- **DevOps & Cloud**: Docker, Kubernetes, AWS (EKS, RDS, VPC), Terraform, GitHub Actions, Ansible, Prometheus, Grafana
+- **Blockchain**: Solidity, EVM, ERC-20/721/4337, OpenZeppelin, Foundry, Chainlink, viem, wagmi
 
-- **Cross-Chain Rebase Token (CCIP)**  
-  Interest-accruing ERC20 minted via an ETH vault, with a custom Chainlink CCIP TokenPool preserving per-user interest rates across chains.
+## 📫 Get in Touch
 
-- **Chainlink VRF Raffle Platform**  
-  Factory-based raffle system using Chainlink VRF v2.5 and Automation, validated with deterministic Foundry tests.
-
----
-
-### 🧪 Engineering Philosophy
-
-I treat smart contracts as **financial infrastructure**, not application code.
-
-That means:
-- Designing with explicit invariants and safety constraints
-- Writing tests that attempt to break assumptions
-- Preferring simple, auditable designs over clever abstractions
-
----
-
-### 🛠️ Tech Stack
-
-- **Blockchain:** Solidity, EVM, ERC-20, ERC-721, ERC-4337, OpenZeppelin  
-- **Tooling:** Foundry (forge, cast), Chainlink, viem, wagmi  
-- **Frontend:** React, Next.js, React Native  
-- **Backend:** Node.js, Supabase
-
----
-
-### 📫 Get in Touch
-
-- LinkedIn: https://www.linkedin.com/in/abubakartariq  
-- GitHub: https://github.com/abubakar-tq
+- LinkedIn: [linkedin.com/in/abubakartariq](https://www.linkedin.com/in/abubakartariq)
 - Email: abubakar.tariq.contact@gmail.com
